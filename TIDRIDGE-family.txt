@@ -1,0 +1,65 @@
+
+Subject:
+RE: Ready to quit!
+From:
+"Lyndon Tech" <tech@lyndeno.ca>
+Date:
+2019-03-20, 10:17 p.m.
+To:
+"John Tidridge" <jtidridge@interbaun.com>
+
+It should be just Push to origin
+
+ 
+
+From: John Tidridge
+Sent: Wednesday, March 20, 2019 8:00 PM
+To: Lyndon Tech
+Subject: Re: Ready to quit!
+
+ 
+I think I have that...do I push master or push origin? 😩
+
+Sent from my iPhone
+
+On Mar 20, 2019, at 7:13 PM, Lyndon Tech <tech@lyndeno.ca> wrote:
+
+> Hello John
+>
+> Would you be able to open the GitHub program on your computer, on the left side there should be a history tab, right click the latest commit (more page changes)? It should be at the top. When you right click it there should be a "revert" button or something along those lines. Click that button and then click the push changes button as usual. GitHub says the commit before the last one built successfully so I think this should return it to a point where it builds.
+>
+> Let me know if GitHub sends you any more emails after that.
+>
+>
+> Get Outlook for Android
+>
+>
+>
+>
+> On Wed, Mar 20, 2019 at 10:02 AM -0600, "John Tidridge" <jtidridge@interbaun.com> wrote:
+>
+>     Lyndon:
+>
+>     I am almost too embarrassed to write...I made changes and I think I pushed the wrong icon and no changes went through.. I think I pushed the far right icon. {as an excuse I had had a tooth extracted}
+>
+>     Here is what I had done...I worked on index.htm, made several changes and they went through...and then I made more changes including taking the top half of index and copying it to blank.htm. I could not name change 'blank' to TIDRIDGE-Families
+>
+>     Oh dear!
+>
+>     The page build failed for the `master` branch with the following error:
+>
+>     Page build failed. For more information, seehttps://help.github.com/en/articles/troubleshooting-github-pages-builds.
+>
+>     For information on troubleshooting Jekyll see:
+>
+>        https://help.github.com/articles/troubleshooting-jekyll-builds
+>
+>     If you have any questions you can contact us by replying to this email.
+>
+>     John T
+>
+>
+>     ---
+>     This email has been checked for viruses by AVG.
+>     https://www.avg.com
+>
