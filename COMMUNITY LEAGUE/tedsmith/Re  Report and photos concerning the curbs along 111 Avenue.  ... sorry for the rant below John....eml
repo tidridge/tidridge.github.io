@@ -1,0 +1,631 @@
+X-Account-Key: account1
+X-UIDL: 71733
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received-SPF: pass (Cache: Last token {include:_netblocks.google.com} (res=PASS)) client-ip=209.85.214.182; envelope-from=<aetedsmith@gmail.com>; x-ip-name=mail-pl1-f182.google.com;
+Received: from mail-pl1-f182.google.com (unverified [209.85.214.182]) 
+	by uniserve.com (SurgeMail 7.4c) with ESMTP (TLS) id 3317198-1392368 
+	for <jtidridge@interbaun.com>; Tue, 27 Jul 2021 13:48:54 -0700
+Return-Path: <aetedsmith@gmail.com>
+Received: by mail-pl1-f182.google.com with SMTP id d1so10363389pll.1
+        for <jtidridge@interbaun.com>; Tue, 27 Jul 2021 13:48:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:mime-version:subject:date:references:to:in-reply-to:message-id;
+        bh=EmW7vrknGroTB9FrPCxbhVYRTuE0U7ddtZr9WsBHpfw=;
+        b=GqBxzBO36H9C9n+JZ2xBTru1dUZIpefJpBXbfYaV0vIV+vLEBQZDWiZD09McUAaUaS
+         EXMAsdqxrwTwZxWr7NtSr0oLUvmHTa5YfhJRzur0BEF7jJJ/IOUmsWgjX9EW4OstG0IP
+         bL6K4tKIJbmPC2OLuPalCzckjWuC/LrzOt1kDWseckFyRUU2UI55ZuAg1QY9ggWrmU+J
+         EOrtnsTgrE7GD4c0emEw+JiGIfp584/mIETAYuNFldDcdIM5rn4GckG+kqT5aq1ouy3j
+         bvTa1NIfx/of9Cz2zDajwsQA2hNK6ejplSly08R24fw2Akj5dWHryIUqtr6swq9ofYm1
+         ba9A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:mime-version:subject:date:references:to
+         :in-reply-to:message-id;
+        bh=EmW7vrknGroTB9FrPCxbhVYRTuE0U7ddtZr9WsBHpfw=;
+        b=BP6Cp+FheH+CfXl4NbYDhZYwyaOMUcFrSwfDDIfxW+80Zh2vYPPJV2GQff4oSmukvl
+         f3x7eFHAHtga8YmWtG28tJyDPHP5BXmR1EMzgxkttyOx36W4ynt85Gmapy8OmbsQLD4j
+         2mH281FMlY/COg1PZgKiqM76mV96Y2Mpm3yrLWtOtemCB+OLrHcQtXshrUxsqBHA2EJk
+         x1Upn0/Ux5Q6ReAry6sHzeEcJlQzRoVKVlhT02w0T8sSeZbDa9r0tMmQaZk6YzyMR9VS
+         CHJEGpbvIyOW35nS6FWM6n/8TJIEu2vaAAsEPlLDMa9Ny2RsnOo70LQbAiPB1Xc6FOBj
+         f3mg==
+X-Gm-Message-State: AOAM531cNokzXTlUOOKaDY0+44U3aP/7HXy6EGHB3Jo7F+1mb6jU5Z9E
+	EYH/olP7icNG6k/9bL0+woPl6UlkcXo=
+X-Google-Smtp-Source: ABdhPJwF1lgIvZp6M2FrZ2oQgDlZEHNhHGdHATRN0HoGYdV1r63mdKvzEKG5tpqmM3Yf2Mw298/KFQ==
+X-Received: by 2002:a17:902:d682:b029:12c:13e9:adaf with SMTP id v2-20020a170902d682b029012c13e9adafmr11891091ply.74.1627418933547;
+        Tue, 27 Jul 2021 13:48:53 -0700 (PDT)
+Return-Path: <aetedsmith@gmail.com>
+Received: from smtpclient.apple (node-1w7jra29ty0ovoj7gw15sbhe3.ipv6.telus.net. [2001:56a:fa13:b300:55e0:279b:3b9e:ccb])
+        by smtp.gmail.com with ESMTPSA id s193sm4711521pfc.183.2021.07.27.13.48.52
+        for <jtidridge@interbaun.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 27 Jul 2021 13:48:53 -0700 (PDT)
+From: Ted Smith <aetedsmith@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_EECE4023-07FA-4CA2-8B16-463BD3F4E52C"
+Mime-Version: 1.0 (Mac OS X Mail 14.0 \(3654.80.0.2.43\))
+Subject: Re: Report and photos concerning the curbs along 111 Avenue.  ...
+ sorry for the rant below John... 
+Date: Tue, 27 Jul 2021 14:48:52 -0600
+References: <c088a7ed-b5ab-2e97-3d22-a928de2c1e6c@interbaun.com>
+To: John Tidridge <jtidridge@interbaun.com>
+In-Reply-To: <c088a7ed-b5ab-2e97-3d22-a928de2c1e6c@interbaun.com>
+Message-Id: <A66C7927-9244-4AB9-8E1E-BA9F44C1C9EB@gmail.com>
+X-Mailer: Apple Mail (2.3654.80.0.2.43)
+X-Originating-IP: 209.85.214.182
+X-Country: code=US country="United States" ip=209.85.214.182
+X-IsFriend: <aetedsmith@gmail.com>
+X-Rcpt-To: <jtidridge@interbaun.com>
+X-FriendScore: *****: 5.0 sd=5.0 lv=0.00 nok=2/0 m=2 nf=0 Close 0.90(X-Phrase:isspam) 0.10(X-myrbl:Color=yellow) 0.14(genuine_gmail) 0.31(Some tags-to-text) 0.32(dkimok) 0.34(genuine) 0.64(Tells you how to stop fur) 0.39(free_email) 0.39(spfpass) 0.46(StandardTLD) 0.48(X-LangGuess:English) Saned 5.0 Sval 5.0 bsan 5.0 Moved 5.0->5.0 Sval 5.0
+X-LangGuess: English
+X-Probe: +OK skipped, from friend
+X-Phrase: IsSpam score=1.00
+Authentication-Results: uniserve.com header.from=aetedsmith@gmail.com; dkim=pass (good signature)
+X-Encryption: SSL encrypted
+X-MyRbl: Color=Yellow Age=0 Spam=0 Notspam=0 Stars=0 Good=0 Friend=1 Surbl=0 Catch=0 r=0 ip=209.85.214.182
+X-IP-stats: Incoming Last 0, First 514, in=11953, out=0, spam=0 ip=209.85.214.182
+Status: U
+X-UIDL: 71733
+
+
+--Apple-Mail=_EECE4023-07FA-4CA2-8B16-463BD3F4E52C
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=utf-8
+
+Good afternoon John=E2=80=A6 thank you for your comments about the front =
+yard=E2=80=A6 Pauline is the grower and I am just the mower=E2=80=A6 =
+hence she gets the credit.
+
+Pepe Hass was the son of Gaby Hass and a very good drummer and was =
+married to Nicki Starr who lives in the family home (where the At Home =
+open house is going to be in August for the Highlands Historical =
+Society(see their web site for more information).  Pepe used to walk the =
+neighbourhood and I often talked with him while out in the yard=E2=80=A6 =
+a very nice gentleman who had a good history of the neighbourhood from =
+his years here.  I do not know of any plaque for Judy McKinnon, maybe =
+the community league should do a bench somewhere in her honour.
+
+The issue with trying to stop the changes to the historic streetscape of =
+south Highlands was very frustrating.  Brent Bain   brentbaim@gmail.com =
+<mailto:brentbaim@gmail.com>. and his wife Anita Kuper =
+kuperanita@gmail.com <mailto:kuperanita@gmail.com> along with Jeff Young =
+jeff@bridgescatering.ca <mailto:jeff@bridgescatering.ca>. were the main =
+entities in the Highlands Alliance that tried to stop the squaring off =
+of the corners and the narrowing of Ada Blvd to the point where when a =
+vehicle is parked on the north side of the road only one vehicle can =
+pass=E2=80=A6 not sure how that can be safer than what we had.  Below is =
+an e-mail we sent out to the folks who supported the Highlands =
+Alliance=E2=80=A6 about 500 people living south of 112th avenue.  The =
+proposal that we had developed and presented to council and =
+administration cost us about $18,000 and basically the city said thank =
+you it was a great proposal and then they did what they had planned =
+prior to the first consultation period that was held several years ago.  =
+Did they listen to the residents and those that pay taxes and live on =
+these streets=E2=80=A6 NO they didn=E2=80=99t but we are trying to be =
+positive and hope things work out after the work is completed. I am sure =
+Brent or Jeff can fill you in with even more information if you are =
+interested.  Tony Caterina was useless to us as he just supported the =
+city position=E2=80=A6 glad he is going to run downtown and I hope he =
+loses, but name recognition is so important in a municipal race so he =
+will likely get in.
+
+Message from the Friends of Highlands Alliance (FOHA)
+
+For the past three years the FOHA have engaged the City of Edmonton to =
+preserve the unique historical nature of Highlands.
+
+We have spent many hours in meetings with various representatives from =
+the City regarding the Highlands Neighborhood Renewal Project.  Our =
+focus was to convince the City to mitigate proposed changes to the =
+iconic curved corners found on various streets and avenues south of 112 =
+Avenue, and to Ada Boulevard itself.
+
+As many of you are aware, the original City proposal was to "square" the =
+corners and construct a three meter wide shared use pathway (SUP), =
+essentially a very large sidewalk, projecting from the existing south =
+curb into the current Ada Boulevard.  After consulting, providing =
+compelling evidence, educating, and sharing what we know with the City, =
+there has been some compromise.  The "squared" corners will remain =
+rounded, but the radius of the curve has been greatly reduced, so the =
+width of the roadways at these intersections will also be significantly =
+smaller than exists now.  Also, the City has agreed to narrow the SUP by =
+half a metre, to 2.5 m.=20
+
+This is the extent of concessions made by the City to their design.  =
+After great, determined, and exhausting effort, FOHA believes that =
+everything that could be done to convince the City to adapt further, has =
+been done. We are grateful for the small concessions given by the City =
+but remain disappointed that so many ideas and suggestions from =
+Neighbours were not adopted.
+
+As we move into construction this spring comments or inquiries would now =
+be best directed to the city.   Further information can be found on the =
+City of Edmonton neighborhood renewal website at =
+www.edmonton.ca/transportation/on_your_streets/highlands-neighborhood-rene=
+wal =
+<http://www.edmonton.ca/transportation/on_your_streets/highlands-neighborh=
+ood-renewal> and for questions specific to your property the Highlands =
+project manager contact from the City is Richard Hai, =
+Richard.hai@edmonton.ca <mailto:Richard.hai@edmonton.ca> .  =20
+
+
+YEG Green Streets www.yeggreenstreets.ca =
+<http://www.yeggreenstreets.ca/> is a grass roots Community initiative =
+looking at exploring beautification efforts through sustainable =
+landscaping initiatives.  Please visit the website and YEG Green Streets =
+is looking for volunteers to help support the development of this =
+program.  As FOHA we support this initiative as potentially a way to =
+mitigate some of the impact from traffic calming architecture in =
+neighborhood renewals and hopefully something can still be done in =
+Highlands but there are no guarantees as the business model is still =
+being developed and it will need the support of City Administration. As =
+a result, if you have not already done so, residents should speak with =
+the City about the impact of construction to their specific properties =
+and the City=E2=80=99s current landscape plan in place to address these =
+issues.  YEG Green Streets has asked if they can provide updates to the =
+database of FOHA members and if you do not wish to receive these updates =
+please respond to this email and your name and contact details will be =
+removed.=20
+
+We want to take this opportunity to thank everyone who submitted ideas, =
+attended meetings, wrote letters, and tried to maintain the essence of =
+our neighborhood. You have been on this journey with us and we =
+appreciated both your support and/or interaction with FOHA.=20
+
+Regards,
+
+Friends of Highlands Steering Committee
+
+Jeff, Ted, Darlene, Maureen, Brian, Anita, Gerry, Sandra, Bill, Brent, =
+Carol, Craig
+
+The Friends of Highlands Alliance is a large and growing group of =
+concerned residents whose overarching goal has always been to =
+collaborate with the City to find a more modest and cost-effective =
+neighborhood renewal design that enhances safety and accessibility but =
+at the same time maintains the historic identity of the Highlands =
+neighborhood.=20
+
+
+As a citizen, if you have questions or concerns about the overall =
+Highlands Neighborhood renewal you can contact The Councilor for Ward 7 =
+Tony Caterina, tony.caterina@edmonton.ca =
+<mailto:tony.caterina@edmonton.ca> or for all Council members the email =
+would be council@edmonton.ca <mailto:council@edmonton.ca> .
+
+
+
+
+John, I do have some photographs of the historic streetscape and the =
+painting of the lines on the corners that showed the neighbours and =
+visitors just what the squared corners were going to look like if you =
+would like some of those I could send them via e-mail.  The 2.5 meter =
+shared use path on Ada Blvd (maybe we should call it Ada Lane or Alley =
+now) was going to be 3M so that is the biggest concession that the city =
+gave in the whole process.  There will be a wood fence on the section =
+above the golf course parking lot (not the ugly metal fence past =
+Concordia on Ada)=E2=80=A6 we hope it looks good but it will block the =
+view a little of the folks living across from the golf course and it =
+might limit views into the parking lot where we have had some vandalism =
+and theft occur in the past years.  Wait to you see the new crosswalks =
+going in at all the corners along Ada Blvd so people can get safely =
+across the one lane to the shared use path.  There have already been =
+some heated discussions on the shared use path between bikers and =
+walkers.. pretty sure there will be more to come in the years ahead.
+
+Am I bitter about the changes=E2=80=A6 yes I am.  An historic =
+streetscape that we have enjoyed in this neighbourhood for over 100 =
+years and was an important part of Magrath and Holegate=E2=80=99s vision =
+for the Highlands in 1912 has been done away with and now we look like =
+any other residential neighbourhood in Edmonton.  All this apparently in =
+the Vision Zero safety program the city has embarked on.  Sorry John you =
+caught me on my soapbox day=E2=80=A6 do contact Brent and Jeff to get =
+their side of the story and if you want some of the photographs do let =
+me know and I will forward some your way.  Stay well and thanks for the =
+written words you are putting on paper (computer) to tell future =
+generations our stories.  Maybe we will see you in the neighbourhood for =
+a coffee once the construction is completed in a year or two. =20
+
+Regards, Ted
+
+Ted Smith
+780 474 6683
+aetedsmith@gmail.com <mailto:aetedsmith@gmail.com>
+5518 - 111 avenue NW
+Edmonton, AB
+
+> On Jul 27, 2021, at 1:36 PM, John Tidridge <jtidridge@interbaun.com> =
+wrote:
+>=20
+> Good afternoon Ted,
+>=20
+> I was admiring your front garden! Well done!
+>=20
+>  I need your help! Please.
+>=20
+> As you know I have my own website of the Community League =
+[https://tidridge.github.io/COMMUNITY%20LEAGUE/] and I try to keep it =
+current.
+>=20
+> With this in mind: do you know  of a Pepe Haas? I am assuming this is =
+Gaby Haas's son?  There is a bench in his memory at 55 Street and 112 =
+Avenue... along with the sign to Gaby.
+>=20
+> Do you know  of a plaque or something similar recognizing Judy =
+McKinnon's long service at Mount Royal School?
+>=20
+> Do you have a record of the effort by some Highlanders to stop the =
+alteration of curbs?
+>=20
+> If 'no' to the above, do you have an email address for Jeff Young?
+>=20
+> Cheers,
+>=20
+> John T
+>=20
+>=20
+>=20
+>=20
+
+
+--Apple-Mail=_EECE4023-07FA-4CA2-8B16-463BD3F4E52C
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=utf-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; line-break: after-white-space;" class=3D"">Good =
+afternoon John=E2=80=A6 thank you for your comments about the front =
+yard=E2=80=A6 Pauline is the grower and I am just the mower=E2=80=A6 =
+hence she gets the credit.<div class=3D""><br class=3D""></div><div =
+class=3D"">Pepe Hass was the son of Gaby Hass and a very good drummer =
+and was married to Nicki Starr who lives in the family home (where the =
+At Home open house is going to be in August for the Highlands Historical =
+Society(see their web site for more information). &nbsp;Pepe used to =
+walk the neighbourhood and I often talked with him while out in the =
+yard=E2=80=A6 a very nice gentleman who had a good history of the =
+neighbourhood from his years here. &nbsp;I do not know of any plaque for =
+Judy McKinnon, maybe the community league should do a bench somewhere in =
+her honour.</div><div class=3D""><br class=3D""></div><div class=3D"">The =
+issue with trying to stop the changes to the historic streetscape of =
+south Highlands was very frustrating. &nbsp;Brent Bain &nbsp;&nbsp;<a =
+href=3D"mailto:brentbaim@gmail.com" class=3D"">brentbaim@gmail.com</a>. =
+and his wife Anita Kuper&nbsp;<a href=3D"mailto:kuperanita@gmail.com" =
+class=3D"">kuperanita@gmail.com</a>&nbsp;along with Jeff Young&nbsp;<a =
+href=3D"mailto:jeff@bridgescatering.ca" =
+class=3D"">jeff@bridgescatering.ca</a>. were the main entities in the =
+Highlands Alliance that tried to stop the squaring off of the corners =
+and the narrowing of Ada Blvd to the point where when a vehicle is =
+parked on the north side of the road only one vehicle can pass=E2=80=A6 =
+not sure how that can be safer than what we had. &nbsp;Below is an =
+e-mail we sent out to the folks who supported the Highlands Alliance=E2=80=
+=A6 about 500 people living south of 112th avenue. &nbsp;The proposal =
+that we had developed and presented to council and administration cost =
+us about $18,000 and basically the city said thank you it was a great =
+proposal and then they did what they had planned prior to the first =
+consultation period that was held several years ago. &nbsp;Did they =
+listen to the residents and those that pay taxes and live on these =
+streets=E2=80=A6 NO they didn=E2=80=99t but we are trying to be positive =
+and hope things work out after the work is completed. I am sure Brent or =
+Jeff can fill you in with even more information if you are interested. =
+&nbsp;Tony Caterina was useless to us as he just supported the city =
+position=E2=80=A6 glad he is going to run downtown and I hope he loses, =
+but name recognition is so important in a municipal race so he will =
+likely get in.</div><div class=3D""><br class=3D""></div><div =
+class=3D""><div style=3D"font-size: 12pt;" class=3D""><p =
+class=3D"MsoNormal" style=3D"margin: 0cm 0cm 8pt; font-family: Calibri, =
+sans-serif; color: rgb(80, 0, 80); background-color: rgb(255, 255, 255); =
+font-size: 11pt;"><u class=3D""><span style=3D"margin: 0px; font-family: =
+&quot;Times New Roman&quot;, serif; color: rgb(0, 0, 0);" =
+class=3D"">Message from the Friends of Highlands Alliance =
+(FOHA)</span></u><u class=3D""></u><u class=3D""></u></p><p =
+class=3D"MsoNormal" style=3D"margin: 0cm 0cm 8pt; font-family: Calibri, =
+sans-serif; color: rgb(80, 0, 80); background-color: rgb(255, 255, 255); =
+font-size: 11pt;"><span style=3D"margin: 0px; font-family: &quot;Times =
+New Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">For the past =
+three years the FOHA have engaged the City of Edmonton to preserve the =
+unique historical nature of Highlands.</span><u class=3D""></u><u =
+class=3D""></u></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 8pt; =
+font-family: Calibri, sans-serif; color: rgb(80, 0, 80); =
+background-color: rgb(255, 255, 255); font-size: 11pt;"><span =
+style=3D"margin: 0px; font-family: &quot;Times New Roman&quot;, serif; =
+color: rgb(0, 0, 0);" class=3D"">We have spent many hours in meetings =
+with various representatives from the City regarding the Highlands =
+Neighborhood Renewal Project.&nbsp; Our focus was to convince the City =
+to mitigate proposed changes to the iconic curved corners found on =
+various streets and avenues south of 112 Avenue, and to Ada Boulevard =
+itself.</span><u class=3D""></u><u class=3D""></u></p><p =
+class=3D"MsoNormal" style=3D"margin: 0cm 0cm 12pt; font-family: Calibri, =
+sans-serif; color: rgb(80, 0, 80); background-color: rgb(255, 255, 255); =
+font-size: 11pt;"><span style=3D"margin: 0px; font-family: &quot;Times =
+New Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">As many of you =
+are aware, the original City proposal was to "square" the corners and =
+construct a three meter wide shared use pathway (SUP), essentially a =
+very large sidewalk, projecting from the existing south curb into the =
+current Ada Boulevard.&nbsp; After consulting, providing compelling =
+evidence, educating, and sharing what we know with the City, there has =
+been some compromise.&nbsp; The "squared" corners will remain rounded, =
+but the radius of the curve has been greatly reduced, so the width of =
+the roadways at these intersections will also be significantly smaller =
+than exists now.&nbsp; Also, the City has agreed to narrow the SUP by =
+half a metre, to 2.5 m.&nbsp;</span><u class=3D""></u><u =
+class=3D""></u></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 12pt; =
+font-family: Calibri, sans-serif; color: rgb(80, 0, 80); =
+background-color: rgb(255, 255, 255); font-size: 11pt;"><span =
+style=3D"margin: 0px; font-family: &quot;Times New Roman&quot;, serif; =
+color: rgb(0, 0, 0);" class=3D"">This is the extent of concessions made =
+by the City to their design.&nbsp; After great, determined, and =
+exhausting effort, FOHA believes that everything that could be done to =
+convince the City to adapt further, has been done. We are grateful for =
+the small concessions given by the City but remain disappointed that so =
+many ideas and suggestions from Neighbours were not adopted.</span><u =
+class=3D""></u><u class=3D""></u></p><p class=3D"MsoNormal" =
+style=3D"margin: 0cm 0cm 12pt; font-family: Calibri, sans-serif; color: =
+rgb(80, 0, 80); background-color: rgb(255, 255, 255); font-size: =
+11pt;"><span style=3D"margin: 0px; font-family: &quot;Times New =
+Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">As we move into =
+construction this spring comments or inquiries would now be best =
+directed to the city.&nbsp; &nbsp;Further information can be found on =
+the City of Edmonton neighborhood renewal website</span><span =
+style=3D"margin: 0px; font-family: &quot;Times New Roman&quot;, serif;" =
+class=3D"">&nbsp;</span><span style=3D"margin: 0px; font-family: =
+&quot;Times New Roman&quot;, serif; color: rgb(0, 0, 0);" =
+class=3D"">at</span><span style=3D"margin: 0px; font-family: &quot;Times =
+New Roman&quot;, serif;" class=3D"">&nbsp;<a =
+href=3D"http://www.edmonton.ca/transportation/on_your_streets/highlands-ne=
+ighborhood-renewal" target=3D"_blank" =
+data-saferedirecturl=3D"https://www.google.com/url?q=3Dhttp://www.edmonton=
+.ca/transportation/on_your_streets/highlands-neighborhood-renewal&amp;sour=
+ce=3Dgmail&amp;ust=3D1618957605510000&amp;usg=3DAFQjCNHrBgzWhAdx3vr0CxC8V7=
+QVwyKSYw" style=3D"margin: 0px; color: blue;" class=3D""><span =
+style=3D"margin: 0px; color: rgb(5, 99, 193);" =
+class=3D"">www.edmonton.ca/<wbr class=3D"">transportation/on_your_<wbr =
+class=3D"">streets/highlands-<wbr =
+class=3D"">neighborhood-renewal</span></a>&nbsp;</span><span =
+style=3D"margin: 0px; font-family: &quot;Times New Roman&quot;, serif; =
+color: rgb(0, 0, 0);" class=3D"">and for questions specific to your =
+property the Highlands project manager contact from the City is Richard =
+Hai,</span><span style=3D"margin: 0px; font-family: &quot;Times New =
+Roman&quot;, serif;" class=3D"">&nbsp;<a =
+href=3D"mailto:Richard.hai@edmonton.ca" target=3D"_blank" style=3D"margin:=
+ 0px; color: blue;" class=3D""><span style=3D"margin: 0px; color: rgb(5, =
+99, 193);" class=3D"">Richard.hai@edmonton.ca</span></a>&nbsp;.&nbsp; =
+&nbsp;</span></p><div style=3D"margin: 0cm 0cm 12pt; color: rgb(80, 0, =
+80); background-color: rgb(255, 255, 255); font-size: 11pt;" =
+class=3D""><font face=3D"Times New Roman, serif" class=3D""></font><br =
+class=3D"webkit-block-placeholder"></div><p class=3D"MsoNormal" =
+style=3D"margin: 0cm 0cm 12pt; font-family: Calibri, sans-serif; color: =
+rgb(80, 0, 80); background-color: rgb(255, 255, 255); font-size: =
+11pt;"><span style=3D"margin: 0px; font-family: &quot;Times New =
+Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">YEG Green =
+Streets</span><span style=3D"margin: 0px; font-family: &quot;Times New =
+Roman&quot;, serif;" class=3D"">&nbsp;<a =
+href=3D"http://www.yeggreenstreets.ca/" target=3D"_blank" =
+data-saferedirecturl=3D"https://www.google.com/url?q=3Dhttp://www.yeggreen=
+streets.ca/&amp;source=3Dgmail&amp;ust=3D1618957605510000&amp;usg=3DAFQjCN=
+FsGgO0M3S93VZDMXX0aQdyZUKfWA" style=3D"margin: 0px; color: blue;" =
+class=3D""><span style=3D"margin: 0px; color: rgb(5, 99, 193);" =
+class=3D"">www.yeggreenstreets.ca</span></a><wbr =
+class=3D"">&nbsp;</span><span style=3D"margin: 0px; font-family: =
+&quot;Times New Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">is =
+a grass roots Community initiative looking at exploring beautification =
+efforts through sustainable landscaping initiatives.&nbsp; Please visit =
+the website and YEG Green Streets is looking for volunteers to help =
+support the development of this program.&nbsp; As FOHA we support this =
+initiative as potentially a way to mitigate some of the impact from =
+traffic calming architecture in neighborhood renewals and hopefully =
+something can still be done in Highlands but there are no guarantees as =
+the business model is still being developed and it will need the support =
+of City Administration. As a result, if you have not already done so, =
+residents should speak with the City about the impact of construction to =
+their specific properties and the City=E2=80=99s current landscape plan =
+in place to address these issues.&nbsp; YEG Green Streets has asked if =
+they can provide updates to the database of FOHA members and if you do =
+not wish to receive these updates please respond to this email and your =
+name and contact details will be removed.&nbsp;</span><u class=3D""></u><u=
+ class=3D""></u></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm =
+12pt; font-family: Calibri, sans-serif; color: rgb(80, 0, 80); =
+background-color: rgb(255, 255, 255); font-size: 11pt;"><span =
+style=3D"margin: 0px; font-family: &quot;Times New Roman&quot;, serif; =
+color: rgb(0, 0, 0);" class=3D"">We want to take this opportunity to =
+thank everyone who submitted ideas, attended meetings, wrote letters, =
+and tried to maintain the essence of our neighborhood. You have been on =
+this journey with us and we appreciated both your support and/or =
+interaction with FOHA.&nbsp;</span><u class=3D""></u></p><p =
+class=3D"MsoNormal" style=3D"margin: 0cm 0cm 12pt; font-family: Calibri, =
+sans-serif; color: rgb(80, 0, 80); background-color: rgb(255, 255, 255); =
+font-size: 11pt;"><span style=3D"margin: 0px; font-family: &quot;Times =
+New Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">Regards,</span><u=
+ class=3D""></u><u class=3D""></u></p><p class=3D"MsoNormal" =
+style=3D"margin: 0cm 0cm 12pt; font-family: Calibri, sans-serif; color: =
+rgb(80, 0, 80); background-color: rgb(255, 255, 255); font-size: =
+11pt;"><span style=3D"margin: 0px; font-family: &quot;Times New =
+Roman&quot;, serif; color: rgb(0, 0, 0);" class=3D"">Friends of =
+Highlands Steering Committee</span><u class=3D""></u><u =
+class=3D""></u></p><p class=3D"MsoNormal" style=3D"margin: 0cm 0cm 12pt; =
+font-family: Calibri, sans-serif; color: rgb(80, 0, 80); =
+background-color: rgb(255, 255, 255); font-size: 11pt;"><span =
+style=3D"margin: 0px; font-family: &quot;Times New Roman&quot;, serif; =
+color: rgb(0, 0, 0);" class=3D"">Jeff, Ted, Darlene, Maureen, Brian, =
+Anita, Gerry, Sandra, Bill, Brent, Carol, Craig</span></p><p =
+class=3D"x_x_MsoNormal" style=3D"margin: 12pt 0cm 6pt; font-family: =
+&quot;Times New Roman&quot;, serif; font-size: 12pt; background-color: =
+rgb(255, 255, 255);"><b style=3D"font-size: 12pt; font-style: inherit; =
+font-variant-ligatures: inherit; font-variant-caps: inherit;" =
+class=3D""><i class=3D""><span style=3D"font-size: 8pt; font-family: =
+Arial, sans-serif;" class=3D"">The Friends of Highlands Alliance is a =
+large and growing group of concerned residents whose overarching goal =
+has always been to collaborate with the City to find a more modest and =
+cost-effective neighborhood renewal design that enhances safety and =
+accessibility but at the same time maintains the historic identity of =
+the Highlands neighborhood.</span></i></b><b style=3D"font-size: 12pt; =
+font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: =
+inherit;" class=3D""><i class=3D""><sup class=3D""><span =
+style=3D"font-size: 8pt;" class=3D"">&nbsp;</span></sup></i></b><br =
+class=3D""></p><br class=3D""></div><div id=3D"appendonsend" =
+class=3D""></div><div style=3D"font-family: Calibri, Arial, Helvetica, =
+sans-serif; font-size: 12pt;" class=3D""><b class=3D""><span =
+style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times New =
+Roman&quot;, serif; background-color: rgb(255, 255, 255); color: =
+rgb(200, 38, 19);" class=3D"">As a citizen, if you have questions or =
+concerns about the overall Highlands Neighborhood renewal</span><span =
+style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times New =
+Roman&quot;, serif; background-color: rgb(255, 255, 255);" =
+class=3D""><span style=3D"color: rgb(200, 38, 19);" =
+class=3D"">&nbsp;</span></span><span style=3D"margin: 0px; font-size: =
+14.6667px; font-family: &quot;Times New Roman&quot;, serif; =
+background-color: rgb(255, 255, 255); color: rgb(200, 38, 19);" =
+class=3D"">you can contact</span><span style=3D"color: rgb(200, 38, 19); =
+font-family: &quot;Times New Roman&quot;, serif; font-size: 14.6667px; =
+background-color: rgb(255, 255, 255);" class=3D"">&nbsp;</span><span =
+style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times New =
+Roman&quot;, serif; background-color: rgb(255, 255, 255); color: =
+rgb(200, 38, 19);" class=3D"">T</span><span style=3D"margin: 0px; =
+font-size: 14.6667px; font-family: &quot;Times New Roman&quot;, serif; =
+background-color: rgb(255, 255, 255); color: rgb(200, 38, 19);" =
+class=3D"">he Councilor for Ward 7 Tony Caterina,</span><span =
+style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times New =
+Roman&quot;, serif; background-color: rgb(255, 255, 255);" =
+class=3D""><span style=3D"margin: 0px; color: rgb(200, 38, 19);" =
+class=3D"">&nbsp;</span></span></b><span style=3D"color: rgb(200, 38, =
+19);" class=3D""><b class=3D""><u style=3D"font-family: &quot;Times New =
+Roman&quot;, serif; font-size: 14.6667px; background-color: rgb(255, =
+255, 255);" class=3D""><a href=3D"mailto:tony.caterina@edmonton.ca" =
+class=3D"">tony.caterina@edmonton.ca</a></u></b></span><b class=3D""><span=
+ style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times =
+New Roman&quot;, serif; background-color: rgb(255, 255, 255);" =
+class=3D""><span style=3D"margin: 0px; color: rgb(200, 38, 19);" =
+class=3D"">&nbsp;</span></span><span style=3D"margin: 0px; font-size: =
+14.6667px; font-family: &quot;Times New Roman&quot;, serif; =
+background-color: rgb(255, 255, 255); color: rgb(200, 38, 19);" =
+class=3D"">or for all Council members the email would be</span><span =
+style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times New =
+Roman&quot;, serif; background-color: rgb(255, 255, 255);" =
+class=3D""><span style=3D"margin: 0px; color: rgb(200, 38, 19);" =
+class=3D"">&nbsp;</span></span></b><span style=3D"color: rgb(200, 38, =
+19);" class=3D""><b class=3D""><u style=3D"font-family: &quot;Times New =
+Roman&quot;, serif; font-size: 14.6667px; background-color: rgb(255, =
+255, 255);" class=3D""><a href=3D"mailto:council@edmonton.ca" =
+class=3D"">council@edmonton.ca</a></u></b></span><b class=3D""><span =
+style=3D"margin: 0px; font-size: 14.6667px; font-family: &quot;Times New =
+Roman&quot;, serif; background-color: rgb(255, 255, 255);" =
+class=3D""><span style=3D"margin: 0px; color: rgb(200, 38, 19);" =
+class=3D"">&nbsp;.</span></span></b></div><div style=3D"font-family: =
+Calibri, Arial, Helvetica, sans-serif; font-size: 12pt;" class=3D""><b =
+class=3D""><span style=3D"margin: 0px; font-size: 14.6667px; =
+font-family: &quot;Times New Roman&quot;, serif; background-color: =
+rgb(255, 255, 255);" class=3D""><span style=3D"margin: 0px; color: =
+rgb(200, 38, 19);" class=3D""><br class=3D""></span></span></b></div><div =
+style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt;" class=3D""><b class=3D""><span style=3D"margin: 0px; font-size: =
+14.6667px; font-family: &quot;Times New Roman&quot;, serif; =
+background-color: rgb(255, 255, 255);" class=3D""><span style=3D"margin: =
+0px; color: rgb(200, 38, 19);" class=3D""><br =
+class=3D""></span></span></b></div><div style=3D"font-family: Calibri, =
+Arial, Helvetica, sans-serif; font-size: 12pt;" class=3D""><b =
+class=3D""><span style=3D"margin: 0px; font-size: 14.6667px; =
+font-family: &quot;Times New Roman&quot;, serif; background-color: =
+rgb(255, 255, 255);" class=3D""><span style=3D"margin: 0px; color: =
+rgb(200, 38, 19);" class=3D""><br class=3D""></span></span></b></div><div =
+style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: =
+12pt;" class=3D""><b class=3D""><span style=3D"margin: 0px; font-size: =
+14.6667px; font-family: &quot;Times New Roman&quot;, serif; =
+background-color: rgb(255, 255, 255);" class=3D""><span style=3D"margin: =
+0px; color: rgb(200, 38, 19);" class=3D""><br =
+class=3D""></span></span></b></div><div class=3D""><font face=3D"Times =
+New Roman, serif" class=3D""><span style=3D"background-color: rgb(255, =
+255, 255);" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D"">John, I do =
+have some photographs of the historic streetscape and the painting of =
+the lines on the corners that showed the neighbours and visitors just =
+what the squared corners were going to look like if you would like some =
+of those I could send them via e-mail. &nbsp;The 2.5 meter shared use =
+path on Ada Blvd (maybe we should call it Ada Lane or Alley now) was =
+going to be 3M so that is the biggest&nbsp;concession that the city gave =
+in the whole process. &nbsp;There will be a wood fence on the section =
+above the golf course parking lot (not the ugly metal fence past =
+Concordia on Ada)=E2=80=A6 we hope it looks good but it will block the =
+view a little of the folks living across from the golf course and it =
+might limit views into the parking lot where we have had some vandalism =
+and&nbsp;</span></b></span><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D"">theft =
+occur in the past years. &nbsp;Wait to you see the new crosswalks going =
+in at all the corners along Ada&nbsp;Blvd so people can get safely =
+across the one lane to the shared use path. &nbsp;There have already =
+been some heated discussions on the shared use path between bikers and =
+walkers.. pretty sure there will be more to come in the years =
+ahead.</span></b></font></div><div class=3D""><font face=3D"Times New =
+Roman, serif" class=3D""><span style=3D"caret-color: rgb(200, 38, 19); =
+font-size: 14.66670036315918px;" class=3D""><b class=3D""><br =
+class=3D""></b></span></font></div><div class=3D""><font face=3D"Times =
+New Roman, serif" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D"">Am I =
+bitter about the changes=E2=80=A6 yes I am. &nbsp;An historic =
+streetscape that we have enjoyed in this neighbourhood for over 100 =
+years and was an important part of Magrath and Holegate=E2=80=99s vision =
+for the Highlands in 1912 has been done away with and now we look like =
+any other residential neighbourhood in Edmonton. &nbsp;All this =
+apparently in the Vision Zero safety program the city has embarked on. =
+&nbsp;Sorry John you caught me on my soapbox day=E2=80=A6 =
+do&nbsp;contact Brent and Jeff to get their side of the story and if you =
+want some of the photographs do let me know and I will forward some your =
+way. &nbsp;Stay well and thanks for the written words you are putting on =
+paper (computer) to tell future generations our stories. &nbsp;Maybe we =
+will see you in the neighbourhood for a coffee once the construction is =
+completed in a year or two. &nbsp;</span></b></font></div><div =
+class=3D""><font face=3D"Times New Roman, serif" class=3D""><b =
+class=3D""><span style=3D"caret-color: rgb(200, 38, 19); font-size: =
+14.66670036315918px;" class=3D""><br =
+class=3D""></span></b></font></div><div class=3D""><font face=3D"Times =
+New Roman, serif" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D"">Regards, =
+Ted</span></b></font></div><div class=3D""><font face=3D"Times New =
+Roman, serif" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D""><br =
+class=3D""></span></b></font></div><div class=3D""><font face=3D"Times =
+New Roman, serif" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D"">Ted =
+Smith</span></b></font></div><div class=3D""><font face=3D"Times New =
+Roman, serif" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D"">780 474 =
+6683</span></b></font></div><div class=3D""><font face=3D"Times New =
+Roman, serif" class=3D""><b class=3D""><span style=3D"caret-color: =
+rgb(200, 38, 19); font-size: 14.66670036315918px;" class=3D""><a =
+href=3D"mailto:aetedsmith@gmail.com" =
+class=3D"">aetedsmith@gmail.com</a></span></b></font></div><div =
+class=3D""><font face=3D"Times New Roman, serif" class=3D""><b =
+class=3D""><span style=3D"caret-color: rgb(200, 38, 19); font-size: =
+14.66670036315918px;" class=3D"">5518 - 111 avenue =
+NW</span></b></font></div><div class=3D""><font face=3D"Times New Roman, =
+serif" class=3D""><b class=3D""><span style=3D"caret-color: rgb(200, 38, =
+19); font-size: 14.66670036315918px;" class=3D"">Edmonton, =
+AB</span></b></font></div><div><br class=3D""><blockquote type=3D"cite" =
+class=3D""><div class=3D"">On Jul 27, 2021, at 1:36 PM, John Tidridge =
+&lt;<a href=3D"mailto:jtidridge@interbaun.com" =
+class=3D"">jtidridge@interbaun.com</a>&gt; wrote:</div><br =
+class=3D"Apple-interchange-newline"><div class=3D""><div class=3D"">Good =
+afternoon Ted,<br class=3D""><br class=3D"">I was admiring your front =
+garden! Well done!<br class=3D""><br class=3D"">&nbsp;I need your help! =
+Please.<br class=3D""><br class=3D"">As you know I have my own website =
+of the Community League [<a =
+href=3D"https://tidridge.github.io/COMMUNITY%20LEAGUE/" =
+class=3D"">https://tidridge.github.io/COMMUNITY%20LEAGUE/</a>] and I try =
+to keep it current.<br class=3D""><br class=3D"">With this in mind: do =
+you know&nbsp; of a Pepe Haas? I am assuming this is Gaby Haas's =
+son?&nbsp; There is a bench in his memory at 55 Street and 112 Avenue... =
+along with the sign to Gaby.<br class=3D""><br class=3D"">Do you =
+know&nbsp; of a plaque or something similar recognizing Judy McKinnon's =
+long service at Mount Royal School?<br class=3D""><br class=3D"">Do you =
+have a record of the effort by some Highlanders to stop the alteration =
+of curbs?<br class=3D""><br class=3D"">If 'no' to the above, do you have =
+an email address for Jeff Young?<br class=3D""><br class=3D"">Cheers,<br =
+class=3D""><br class=3D"">John T<br class=3D""><br class=3D""><br =
+class=3D""><br class=3D""><br =
+class=3D""></div></div></blockquote></div><br =
+class=3D""></div></body></html>=
+
+--Apple-Mail=_EECE4023-07FA-4CA2-8B16-463BD3F4E52C--
